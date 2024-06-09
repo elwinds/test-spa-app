@@ -1,0 +1,14 @@
+﻿@import '../../../styles/variables.scss';
+
+.button {
+    background: $greenGradient;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 17px;
+    color: $whiteColor;
+    height: fit-content;
+    border: none;
+    padding: 10px 25px;
+    cursor: pointer;
+}
